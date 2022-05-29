@@ -1,0 +1,8 @@
+1.routing
+2.creating new folders
+3.creatind a static page
+4.calling a static page using express
+5.install bootstrap
+6.Adding navbar
+7.Header section
+9.template engine
